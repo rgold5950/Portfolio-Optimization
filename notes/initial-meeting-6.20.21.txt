@@ -9,4 +9,5 @@
 
 
 next steps before next meetings:
-- get some stuff to generate on a page by calling our python script. have python script to serve json to the browser.
+- get some stuff to generate on a page by calling our python script. have python script to serve json to the browser. (richard to try this)
+- andrew to look through port optimization code and familiarize
