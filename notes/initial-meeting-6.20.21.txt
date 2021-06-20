@@ -6,3 +6,7 @@
 - have a form (with available tickers ... could use jquery to generate a list of the tickers)
 - fetch data from a date range, once we hit the submit, calls from MS SQL database the first entry in the database (
 - for ML/stats packages, there are js packages for this
+
+
+next steps before next meetings:
+- get some stuff to generate on a page by calling our python script. have python script to serve json to the browser.
